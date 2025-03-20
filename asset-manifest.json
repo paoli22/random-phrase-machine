@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paoli22/random-phrase-machine/static/css/main.e505cfc4.css",
+    "main.js": "/paoli22/random-phrase-machine/static/js/main.097ed1db.js",
+    "index.html": "/paoli22/random-phrase-machine/index.html",
+    "main.e505cfc4.css.map": "/paoli22/random-phrase-machine/static/css/main.e505cfc4.css.map",
+    "main.097ed1db.js.map": "/paoli22/random-phrase-machine/static/js/main.097ed1db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e505cfc4.css",
+    "static/js/main.097ed1db.js"
+  ]
+}
